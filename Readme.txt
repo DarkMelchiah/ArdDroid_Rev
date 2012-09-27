@@ -18,6 +18,6 @@ Nesta versão, temos apenas um app básico que é usado para controlar LEDs no Ardu
 
 
 
-Cheers! o/
+Cheers!
 
 Wladimir Araújo Neto (DarkMelchiah)
